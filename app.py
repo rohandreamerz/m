@@ -29,7 +29,7 @@ lottie_url= os.path.join(dir_name, "happy_bday.json")
 image_path = os.path.join(dir_name, "m_collage.jpg")
 image = Image.open(image_path)
 
-lottie_url_1 = os.path.join(dir_name, "bday_anim.json")
+lottie_url_1 = os.path.join(dir_name, "anim_2.json")
 with open(lottie_url, "r") as f:
         lottie_json = json.load(f)
 
