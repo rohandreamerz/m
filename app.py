@@ -5,7 +5,6 @@ import json
 from PIL import Image
 import time
 import pandas as pd
-import plotly.express as px
 
 st.balloons()
 time.sleep(1)
